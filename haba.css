@@ -1,0 +1,12 @@
+table{
+  width:100%;
+}
+td{
+  width:30%;
+  background:aliceblue;
+}
+td+td{
+  width:70%;
+  background:lightskyblue;
+}
+/* td+tdで隣接してるtdに適用 */
