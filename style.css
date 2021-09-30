@@ -1,0 +1,15 @@
+#site-box {
+          width : 750px;
+}
+
+#a-box {    }
+
+#b-box {
+          float: left;
+          width: 200px;
+}
+
+#c-box {
+          float: right;
+          width: 550px;
+}
