@@ -3,10 +3,10 @@ table{
 }
 td{
   width:30%;
-  background:aliceblue;
+  background:#ffffff;
 }
 td+td{
   width:70%;
-  background:lightskyblue;
+  background:#e6b422;
 }
 /* td+tdで隣接してるtdに適用 */
